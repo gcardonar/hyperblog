@@ -1,10 +1,3 @@
-Soy Gustavo Cardona
-Me conocen como Gus, el de Versus Esports
+Soy Gustavo Cardona, tengo 41 años y en el mundo de los Esports me conocen como uno de los fundadores de Versus Esports
 
-Tengo 41 años y estoy muy motivado estudiando Git y Github.
-
-Hoy hablaremos de su vida
-
-Y también de sus estudios en agilismo
-
-Amo Platzi
+Estoy muy motivado estudiando Git y Github.
